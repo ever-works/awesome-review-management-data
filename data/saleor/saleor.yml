@@ -1,0 +1,13 @@
+name: "Saleor"
+description: "Open-source e-commerce platform with GraphQL API and product review capabilities for digital commerce. Supports self-hosted deployment and custom storefronts. Released under BSD-3-Clause license."
+source_url: "https://saleor.io/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "e-commerce"
+  - "graphql"
+icon_url: "https://icons.duckduckgo.com/ip3/saleor.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://saleor.io/>\n- Repository: <https://github.com/saleor/saleor>\n\nLicense: BSD-3-Clause.\n"
+updated_at: "2026-11-21 09:49"

@@ -1,0 +1,11 @@
+name: "Trustmary"
+description: "Testimonial and review automation tool that collects customer feedback and converts it into website widgets and case studies. Supports video testimonials and NPS surveys. Offers freemium and paid plans."
+source_url: "https://trustmary.com/"
+category: "Testimonial Collection"
+tags:
+  - "freemium"
+  - "testimonial-collection"
+  - "review-management"
+icon_url: "https://icons.duckduckgo.com/ip3/trustmary.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://trustmary.com/>\n"
+updated_at: "2026-11-21 09:49"

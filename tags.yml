@@ -1,0 +1,34 @@
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: api
+  name: "API"
+- id: review-management
+  name: "Review Management"
+- id: ai-powered
+  name: "AI-Powered"
+- id: reputation-management
+  name: "Reputation Management"
+- id: freemium
+  name: "Freemium"
+- id: testimonial-collection
+  name: "Testimonial Collection"
+- id: review-widgets
+  name: "Review Widgets"
+- id: e-commerce
+  name: "E-commerce"
+- id: e-commerce-product-reviews
+  name: "E-commerce Product Reviews"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: headless-commerce
+  name: "Headless Commerce"
+- id: graphql
+  name: "GraphQL"
+- id: ruby-on-rails
+  name: "Ruby on Rails"
+- id: php
+  name: "PHP"

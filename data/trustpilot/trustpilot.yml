@@ -1,0 +1,12 @@
+name: "Trustpilot"
+description: "Open review platform where consumers rate businesses and companies collect and display customer feedback. Used by businesses of all sizes for trust signals and review analytics. Offers paid plans with advanced features and API access."
+source_url: "https://trustpilot.com/"
+category: "Review Management"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "review-management"
+icon_url: "https://icons.duckduckgo.com/ip3/trustpilot.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://trustpilot.com/>\n"
+updated_at: "2026-11-21 09:49"

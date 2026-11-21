@@ -1,0 +1,11 @@
+name: "Judge.me"
+description: "Review app for e-commerce stores that collects product reviews and ratings with customizable display widgets. Includes SEO features and integration with Shopify and other platforms. Offers a free plan and paid options."
+source_url: "https://judge.me/"
+category: "E-commerce Product Reviews"
+tags:
+  - "freemium"
+  - "e-commerce"
+  - "e-commerce-product-reviews"
+icon_url: "https://icons.duckduckgo.com/ip3/judge.me.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://judge.me/>\n"
+updated_at: "2026-11-21 09:49"

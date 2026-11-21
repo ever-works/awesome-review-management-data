@@ -1,0 +1,13 @@
+name: "Magento Open Source"
+description: "Open-source e-commerce platform with built-in product review and rating functionality for online merchants. Supports self-hosted deployment and extensive customization. Released under OSL v3 and AFL licenses."
+source_url: "https://magento.com/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "e-commerce"
+  - "php"
+icon_url: "https://icons.duckduckgo.com/ip3/magento.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://magento.com/>\n- Repository: <https://github.com/magento/magento2>\n\nLicense: OSL v3, AFL.\n"
+updated_at: "2026-11-21 09:49"

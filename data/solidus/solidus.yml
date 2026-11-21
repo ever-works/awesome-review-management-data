@@ -1,0 +1,13 @@
+name: "Solidus"
+description: "Open-source e-commerce platform built with Ruby on Rails, including product review and rating features. Designed for self-hosted deployment and customization. Licensed under BSD-3-Clause."
+source_url: "https://solidus.io/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "e-commerce"
+  - "ruby-on-rails"
+icon_url: "https://icons.duckduckgo.com/ip3/solidus.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://solidus.io/>\n- Repository: <https://github.com/solidusio/solidus>\n\nLicense: BSD-3-Clause.\n"
+updated_at: "2026-11-21 09:49"

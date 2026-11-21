@@ -1,0 +1,12 @@
+name: "Yotpo"
+description: "E-commerce marketing platform focused on customer reviews, ratings, and user-generated content for online stores. Integrates with major e-commerce platforms and offers review collection and display tools. Pricing is based on order volume with paid plans."
+source_url: "https://yotpo.com/"
+category: "E-commerce Product Reviews"
+tags:
+  - "paid"
+  - "e-commerce"
+  - "api"
+  - "e-commerce-product-reviews"
+icon_url: "https://icons.duckduckgo.com/ip3/yotpo.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://yotpo.com/>\n"
+updated_at: "2026-11-21 09:49"

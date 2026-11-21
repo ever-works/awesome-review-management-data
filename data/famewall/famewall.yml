@@ -1,0 +1,11 @@
+name: "Famewall"
+description: "Testimonial collection service that lets businesses gather customer feedback and display it via embeddable widgets. Supports text and video testimonials with customizable design. Offers freemium and paid plans."
+source_url: "https://famewall.io/"
+category: "Testimonial Collection"
+tags:
+  - "freemium"
+  - "testimonial-collection"
+  - "review-widgets"
+icon_url: "https://icons.duckduckgo.com/ip3/famewall.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://famewall.io/>\n"
+updated_at: "2026-11-21 09:49"

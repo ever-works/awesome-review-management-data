@@ -1,0 +1,12 @@
+name: "Okendo"
+description: "Customer reviews platform for e-commerce brands that collects ratings, reviews, and customer photos. Includes display widgets and integration with Shopify and Klaviyo. Offers a free plan and paid subscriptions."
+source_url: "https://okendo.io/"
+category: "E-commerce Product Reviews"
+tags:
+  - "freemium"
+  - "e-commerce"
+  - "api"
+  - "e-commerce-product-reviews"
+icon_url: "https://icons.duckduckgo.com/ip3/okendo.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://okendo.io/>\n"
+updated_at: "2026-11-21 09:49"

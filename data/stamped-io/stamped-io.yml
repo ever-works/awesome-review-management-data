@@ -1,0 +1,12 @@
+name: "Stamped.io"
+description: "E-commerce reviews and loyalty platform for collecting product reviews, ratings, and user-generated content. Integrates with Shopify and other e-commerce systems. Offers a free plan and paid tiers."
+source_url: "https://stamped.io/"
+category: "E-commerce Product Reviews"
+tags:
+  - "freemium"
+  - "e-commerce"
+  - "api"
+  - "e-commerce-product-reviews"
+icon_url: "https://icons.duckduckgo.com/ip3/stamped.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://stamped.io/>\n"
+updated_at: "2026-11-21 09:49"

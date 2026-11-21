@@ -1,0 +1,12 @@
+name: "Bazaarvoice"
+description: "Enterprise network for collecting and displaying customer reviews and user-generated content across retail and e-commerce channels. Includes analytics and syndication tools. Pricing is enterprise-level."
+source_url: "https://bazaarvoice.com/"
+category: "E-commerce Product Reviews"
+tags:
+  - "enterprise"
+  - "e-commerce"
+  - "api"
+  - "e-commerce-product-reviews"
+icon_url: "https://icons.duckduckgo.com/ip3/bazaarvoice.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://bazaarvoice.com/>\n"
+updated_at: "2026-11-21 09:49"

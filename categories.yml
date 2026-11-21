@@ -1,0 +1,12 @@
+- id: review-management
+  name: "Review Management"
+- id: testimonial-collection
+  name: "Testimonial Collection"
+- id: reputation-management
+  name: "Reputation Management"
+- id: review-widgets
+  name: "Review Widgets"
+- id: e-commerce-product-reviews
+  name: "E-commerce Product Reviews"
+- id: open-source
+  name: "Open Source"
